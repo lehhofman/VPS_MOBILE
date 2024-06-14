@@ -16,7 +16,7 @@ Cinema na Mão é um aplicativo móvel que oferece uma experiência personalizad
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/CinemaNaMao.git
+   git clone https://github.com/lehhofman/VPS_MOBILE.git
 
 2. Entre na pasta raiz:
 
